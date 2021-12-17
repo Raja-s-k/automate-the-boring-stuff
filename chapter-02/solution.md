@@ -28,7 +28,7 @@ False\
 &ensp;&ensp;False\
 &ensp;&ensp;True\
 &ensp;&ensp;False\
-&ensp;&ensp;True\
+&ensp;&ensp;False\
 &ensp;&ensp;True
 
 **5)**

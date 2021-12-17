@@ -7,15 +7,15 @@ and,or and not are the Boolean operators.
 
 **3)**
 AND operator\
-&ensp;True AND True => True\
-&ensp;True AND False => False\
-&ensp;False AND True => False\
-&ensp;False AND False => False\\
-&ensp;OR operator\	
-&ensp;True OR True => True\
-&ensp;True OR False => True\
-&ensp;False OR True => True\
-&ensp;False OR False => False\
+&ensp;&ensp;True AND True => True\
+&ensp;&ensp;True AND False => False\
+&ensp;&ensp;False AND True => False\
+&ensp;&ensp;False AND False => False\
+&ensp;&ensp;OR operator\	
+&ensp;&ensp;True OR True => True\
+&ensp;&ensp;True OR False => True\
+&ensp;&ensp;False OR True => True\
+&ensp;&ensp;False OR False => False\
 
 **4)**
 False

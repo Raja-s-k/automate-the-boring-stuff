@@ -7,12 +7,13 @@ and ,or and not are the Boolean operators.
 
 **3)**
 &ensp;&ensp;AND operator\
+&nbsp;
 &ensp;&ensp;True AND True => True\
 &ensp;&ensp;True AND False => False\
 &ensp;&ensp;False AND True => False\
 &ensp;&ensp;False AND False => False\
 &ensp;&ensp;&ensp;&ensp;OR operator
-\	
+&nbsp;	
 &ensp;&ensp;True OR True => True\
 &ensp;&ensp;True OR False => True\
 &ensp;&ensp;False OR True => True\
@@ -41,33 +42,35 @@ when we want to execute a block when that condition comes True.
 **8)**\
 **Block-01**\
 spam = 0\
-&ensp;&ensp;if spam == 10:\
+if spam == 10:\
 &ensp;&ensp;    print('eggs')\
-&ensp;&ensp;    if spam > 5:\
-&ensp;&ensp;        print('bacon')\
-&ensp;&ensp;    else:\
-&ensp;&ensp;        print('ham')\
+&ensp;    if spam > 5:\
+&ensp;&ensp;&ensp;        print('bacon')\
+&ensp;    else:\
+&ensp;&ensp;&ensp;        print('ham')\
 &ensp;&ensp;    print('spam')\
-&ensp;&ensp;print('spam')
+print('spam')\
+&nbsp;
 **Block-02**
-&ensp;  print('eggs')\
-&ensp;&ensp;    if spam > 5:\
-&ensp;&ensp;        print('bacon')\
-&ensp;&ensp;    else:\
-&ensp;&ensp;        print('ham')\
-&ensp;&ensp;    print('spam')\
+print('eggs')\
+&ensp;if spam > 5:\
+&ensp;&ensp;print('bacon')\
+&ensp;else:\
+&ensp;&ensp;print('ham')\
+&ensp;print('spam')\
+&nbsp;
 **Block-03**
-&ensp;&ensp;    print('bacon')\
-&ensp;&ensp;    else:\
-&ensp;&ensp;        print('ham')\
+print('bacon')\
+else:\
+&ensp;print('ham')\
 
-**9)**
-if spam == 1:
-	print("Hello")
-elif spam == 2:
-	print("Howdy")
-else:
-	print("Greetings!")
+**9)**&nbsp;
+if spam == 1:\
+&ensp;&ensp;print("Hello")\
+elif spam == 2:\
+&ensp;&ensp;print("Howdy")\
+else:\
+&ensp;&ensp;print("Greetings!")
 
 **10)**
 Ctrl + C
@@ -76,13 +79,14 @@ Ctrl + C
 break statement just stops executing the current loop and jump out of the loop.
 continue statement does nothing just continues with the next iteration.
 
-**12)**All three ranges does the same just the way of approch is changed.
+**12)**
+All three ranges does the same just the way of approch is changed.
 
-**13)**
-#1 for i in range(1,11):
-	print(i)
-#2 i=1
-   while i < 11:
-	print(i)
-	i+=1
+**13)**&nbsp;
+#1&nbsp;for i in range(1,11):\
+&ensp;&ensp;print(i)\
+#2 i=1\
+   while i < 11:\
+   &ensp;&ensp;print(i)\
+   &ensp;&ensp;i+=1
 **14)**spam.bacon()

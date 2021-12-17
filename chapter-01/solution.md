@@ -1,18 +1,18 @@
 
 **1)**
   operator\
-&ensp;  value\
-&ensp;  value\
-&ensp;  operator\
-&ensp;  operator\
-&ensp;  operator\
-&ensp;  value
-&ensp;  value\
-&ensp;  value\
-&ensp;  operator\
-&ensp;  operator\
-&ensp;  operator\
-&ensp;  value
+&ensp;&nbsp;  value\
+&ensp;&nbsp;  value\
+&ensp;&nbsp;  operator\
+&ensp;&nbsp;  operator\
+&ensp;&nbsp;  operator\
+&ensp;&nbsp;  value
+&ensp;&nbsp;  value\
+&ensp;&nbsp;  value\
+&ensp;&nbsp;  operator\
+&ensp;&nbsp;  operator\
+&ensp;&nbsp;  operator\
+&ensp;&nbsp;  value
 
 **2)**
    spam -variable\

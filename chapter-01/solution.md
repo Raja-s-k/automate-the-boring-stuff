@@ -1,5 +1,5 @@
 **1)**
-operator"\n"
+operator\
 value
 value
 operator

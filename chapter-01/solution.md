@@ -16,12 +16,12 @@
 
 **2)**
    spam -variable\
-&ensp;  'spam'-string
+&ensp;&nbsp;  'spam'-string
 
 **3)**
   =>Integers\
-&ensp;    Floating point numbers\
-&ensp;    Strings\
+&ensp;&ensp;&ensp;    Floating point numbers\
+&ensp;&ensp;&ensp;    Strings\
 
 **4)**
   An expression is made up of values and operators and it is used to do some mathematical operation.

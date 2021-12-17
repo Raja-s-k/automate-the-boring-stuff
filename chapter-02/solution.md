@@ -79,7 +79,7 @@ Ctrl + C
 break statement just stops executing the current loop and jump out of the loop, whereas continue statement does nothing and just continues with the next iteration.
 
 **12)**
-All three ranges does the same but only the way of approch has been changed.In the fist range the first paramenter and the third parameter is taken by default as 0 and 1, in the second range also it takes its third parameter as 1 and in the third range all the parameters are specified.
+All three ranges does the same but only the way of approch has been changed. In the fist range the first paramenter and the third parameter is taken by default as 0 and 1, in the second range also it takes its third parameter as 1 and in the third range all the parameters are specified.
 
 **13)**  
 

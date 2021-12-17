@@ -96,7 +96,7 @@ for i in range(1,11):\
 i=1\
    while i < 11:\
    &ensp;&ensp;print(i)\
-   &ensp;&ensp;i+=1\
+   &ensp;&ensp;i+=1
 
 **14)**
 spam.bacon()

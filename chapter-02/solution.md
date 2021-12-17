@@ -1,35 +1,35 @@
 **1)**
-True and False are the two values of the Boolean data type.1 is considered as True and 
+True and False are the two values of the Boolean data type. 1 is considered as True and 
       0 is considered as False.
 
 **2)**
-and,or and not are the Boolean operators.
+and ,or and not are the Boolean operators.
 
 **3)**
-AND operator\
+  AND operator\
 &ensp;&ensp;True AND True => True\
 &ensp;&ensp;True AND False => False\
 &ensp;&ensp;False AND True => False\
 &ensp;&ensp;False AND False => False\
-&ensp;&ensp;OR operator\	
+&ensp;&ensp;&ensp;OR operator \	
 &ensp;&ensp;True OR True => True\
 &ensp;&ensp;True OR False => True\
 &ensp;&ensp;False OR True => True\
 &ensp;&ensp;False OR False => False\
 
 **4)**
-False
-&ensp;False
-&ensp;True
-&ensp;False
-&ensp;True
+False\
+&ensp;False\
+&ensp;True\
+&ensp;False\
+&ensp;True\
 &ensp;True
 
 **5)**
->,<,>=,<=,!=,==
+ >,<,>=,<=,!=,==
 
 **6)**
-equal to(=) operator is used to assign some value to some variable,whereas == operator is used to check
+equal to (=) operator is used to assign some value to some variable,whereas == operator is used to check
  whether the RHS is equal to LHS and produces the output as True or False.
 
 **7)**
@@ -38,27 +38,27 @@ runs that block or else it just pass without excecuting that block.We use condit
 when we want to execute a block when that condition comes True.
 
 **8)**\
-**Block-01**
-spam = 0
-if spam == 10:
-    print('eggs')
-    if spam > 5:
-        print('bacon')
-    else:
-        print('ham')
-    print('spam')
-print('spam')
+**Block-01**\
+spam = 0\
+&ensp;&ensp;if spam == 10:\
+&ensp;&ensp;    print('eggs')\
+&ensp;&ensp;    if spam > 5:\
+&ensp;&ensp;        print('bacon')\
+&ensp;&ensp;    else:\
+&ensp;&ensp;        print('ham')\
+&ensp;&ensp;    print('spam')\
+&ensp;&ensp;print('spam')
 **Block-02**
-  print('eggs')
-    if spam > 5:
-        print('bacon')
-    else:
-        print('ham')
-    print('spam')
+&ensp;  print('eggs')\
+&ensp;&ensp;    if spam > 5:\
+&ensp;&ensp;        print('bacon')\
+&ensp;&ensp;    else:\
+&ensp;&ensp;        print('ham')\
+&ensp;&ensp;    print('spam')\
 **Block-03**
-    print('bacon')
-    else:
-        print('ham')
+&ensp;&ensp;    print('bacon')\
+&ensp;&ensp;    else:\
+&ensp;&ensp;        print('ham')\
 
 **9)**
 if spam == 1:

@@ -1,12 +1,21 @@
 
 **1)**
   operator\
+<<<<<<< HEAD
 &ensp;  value\
 &ensp;  value\
 &ensp;  operator\
 &ensp;  operator\
 &ensp;  operator\
 &ensp;  value
+=======
+  &nbsp;value\
+  value\
+  operator\
+  operator\
+  operator\
+  value
+>>>>>>> 64e903e3359e76f94240062aef28fabe837aeaf6
 
 **2)**
    spam -variable\

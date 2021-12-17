@@ -9,13 +9,13 @@
 &ensp;&nbsp;  value 
 
 **2)**
-   spam -variable\
-&ensp;&nbsp;  'spam'-string
+   spam &ensp;-&ensp; variable\
+&ensp;&nbsp;  'spam'&ensp; -&ensp; string
 
 **3)**
   =>Integers\
-&ensp;&ensp;&ensp;&ensp;    Floating point numbers\
-&ensp;&ensp;&ensp;&ensp;    Strings
+&ensp;&ensp;&ensp;&ensp;&ensp;   Floating point numbers\
+&ensp;&ensp;&ensp;&ensp;&ensp;    Strings
 
 **4)**
   An expression is made up of values and operators and it is used to do some mathematical operation.

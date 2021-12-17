@@ -6,7 +6,7 @@ True and False are the two values of the Boolean data type. 1 is considered as T
 and ,or and not are the Boolean operators.
 
 **3)**
-  AND operator\
+&ensp;&ensp;AND operator\
 &ensp;&ensp;True AND True => True\
 &ensp;&ensp;True AND False => False\
 &ensp;&ensp;False AND True => False\

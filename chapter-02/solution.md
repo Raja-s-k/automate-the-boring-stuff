@@ -1,7 +1,7 @@
 **1)**
 True and False are the two values of the Boolean data type. 1 is considered as True and 
-      0 is considered as False.
- **CODE:**
+      0 is considered as False.\
+ **CODE:**\
  print(True)
  print(False)
 

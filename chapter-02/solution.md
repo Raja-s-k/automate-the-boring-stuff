@@ -76,8 +76,8 @@ else:\
 Ctrl + C
 
 **11)**
-break statement just stops executing the current loop and jump out of the loop.
-continue statement does nothing just continues with the next iteration.
+break statement just stops executing the current loop and jump out of the loop, whereas
+continue statement does nothing and just continues with the next iteration.
 
 **12)**
 All three ranges does the same just the way of approch is changed.

@@ -11,8 +11,9 @@ and ,or and not are the Boolean operators.
 &ensp;&ensp;True AND False => False\
 &ensp;&ensp;False AND True => False\
 &ensp;&ensp;False AND False => False\
-&ensp;&ensp;&ensp;&ensp;OR operator	
-&ensp;&ensp;\True OR True => True\
+&ensp;&ensp;&ensp;&ensp;OR operator
+\	
+&ensp;&ensp;True OR True => True\
 &ensp;&ensp;True OR False => True\
 &ensp;&ensp;False OR True => True\
 &ensp;&ensp;False OR False => False
@@ -29,12 +30,12 @@ False\
 (>,<,>=,<=,!=,==)
 
 **6)**
-equal to (=) operator is used to assign some value to some variable,whereas == operator is used to check
+equal to (=) operator is used to assign some value to some variable, whereas == operator is used to check
  whether the RHS is equal to LHS and produces the output as True or False.
 
 **7)**
 A conditional statement checks a condition and if that condition comes to be True it
-runs that block or else it just pass without excecuting that block.We use conditional statement 
+runs that block or else it just pass without excecuting that block. We use conditional statement 
 when we want to execute a block when that condition comes True.
 
 **8)**\

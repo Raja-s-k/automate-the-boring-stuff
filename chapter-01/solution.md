@@ -1,7 +1,7 @@
 
 **1)**
   operator\
-&nbsp  value\
+  &nbsp;value\
   value\
   operator\
   operator\

@@ -60,7 +60,8 @@ print('bacon')
 
 print('ham')
 
-**9)**&nbsp;
+**9)**  
+
 if spam == 1:\
 &ensp;&ensp;print("Hello")\
 elif spam == 2:\

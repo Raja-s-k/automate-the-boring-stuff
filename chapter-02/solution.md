@@ -19,14 +19,14 @@ and ,or and not are the Boolean operators.
 
 **4)**
 False\
-&ensp;False\
-&ensp;True\
-&ensp;False\
-&ensp;True\
-&ensp;True
+&ensp;&ensp;False\
+&ensp;&ensp;True\
+&ensp;&ensp;False\
+&ensp;&ensp;True\
+&ensp;&ensp;True
 
 **5)**
- >,<,>=,<=,!=,==
+(>,<,>=,<=,!=,==)
 
 **6)**
 equal to (=) operator is used to assign some value to some variable,whereas == operator is used to check

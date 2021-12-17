@@ -1,21 +1,21 @@
 
 **1)**
   operator\
-&nbsp  value\
-  value\
-  operator\
-  operator\
-  operator\
-  value
+&ensp;  value\
+&ensp;  value\
+&ensp;  operator\
+&ensp;  operator\
+&ensp;  operator\
+&ensp;  value
 
 **2)**
    spam -variable\
-  'spam'-string
+&ensp;  'spam'-string
 
 **3)**
   =>Integers\
-    Floating point numbers\
-    Strings\
+&ensp;    Floating point numbers\
+&ensp;    Strings\
 
 **4)**
   An expression is made up of values and operators and it is used to do some mathematical operation.

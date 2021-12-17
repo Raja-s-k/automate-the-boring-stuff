@@ -84,7 +84,7 @@ All three ranges does the same but only the way of approch has been changed. In 
 **13)**  
 
 for i in range(1,11):\
-&ensp;&ensp;print(i)\  
+&ensp;&ensp;print(i)  
 
 i=1\
    while i < 11:\

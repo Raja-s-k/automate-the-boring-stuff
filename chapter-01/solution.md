@@ -6,13 +6,7 @@
 &ensp;&nbsp;  operator\
 &ensp;&nbsp;  operator\
 &ensp;&nbsp;  operator\
-&ensp;&nbsp;  value\
-&ensp;&nbsp;  value\
-&ensp;&nbsp;  value\
-&ensp;&nbsp;  operator\
-&ensp;&nbsp;  operator\
-&ensp;&nbsp;  operator\
-&ensp;&nbsp;  value
+&ensp;&nbsp;  value 
 
 **2)**
    spam -variable\

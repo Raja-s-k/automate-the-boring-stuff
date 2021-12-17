@@ -7,8 +7,7 @@ and ,or and not are the Boolean operators.
 
 **3)**
 &ensp;&ensp;AND operator\
-&nbsp;
-&ensp;&ensp;True AND True => True\
+&ensp;True AND True => True\
 &ensp;&ensp;True AND False => False\
 &ensp;&ensp;False AND True => False\
 &ensp;&ensp;False AND False => False\

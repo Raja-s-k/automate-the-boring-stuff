@@ -43,32 +43,22 @@ when we want to execute a block when that condition comes True.
 **8)**\
 **Block-01**  
 
-spam = 0\
-if spam == 10:\
-&ensp;&ensp;    print('eggs')\
-&ensp;    if spam > 5:\
-&ensp;&ensp;&ensp;        print('bacon')\
-&ensp;    else:\
-&ensp;&ensp;&ensp;        print('ham')\
-&ensp;&ensp;    print('spam')\
-print('spam')\
+print('eggs')\
+if spam > 5:\
+&ensp;&ensp;print('bacon')\
+else:\
+&ensp;&ensp;print('ham')\
+print('spam')
   
 
 **Block-02**  
 
-print('eggs')\
-&ensp;if spam > 5:\
-&ensp;&ensp;print('bacon')\
-&ensp;else:\
-&ensp;&ensp;print('ham')\
-&ensp;print('spam')\
+print('bacon')
   
 
 **Block-03**  
 
-print('bacon')\
-else:\
-&ensp;print('ham')
+print('ham')
 
 **9)**&nbsp;
 if spam == 1:\

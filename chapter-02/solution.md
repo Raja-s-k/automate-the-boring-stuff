@@ -1,9 +1,12 @@
-**1)**True and False are the two values of the Boolean data type.1 is considered as True and 
+**1)**
+True and False are the two values of the Boolean data type.1 is considered as True and 
       0 is considered as False.
 
-**2)**and,or and not are the Boolean operators.
+**2)**
+and,or and not are the Boolean operators.
 
-**3)**AND operator\
+**3)**
+AND operator\
 &ensp;True AND True => True\
 &ensp;True AND False => False\
 &ensp;False AND True => False\
@@ -14,19 +17,23 @@
 &ensp;False OR True => True\
 &ensp;False OR False => False\
 
-**4)**False
+**4)**
+False
 &ensp;False
 &ensp;True
 &ensp;False
 &ensp;True
 &ensp;True
 
-**5)**>,<,>=,<=,!=,==
+**5)**
+>,<,>=,<=,!=,==
 
-**6)**equal to(=) operator is used to assign some value to some variable,whereas == operator is used to check
+**6)**
+equal to(=) operator is used to assign some value to some variable,whereas == operator is used to check
  whether the RHS is equal to LHS and produces the output as True or False.
 
-**7)**A conditional statement checks a condition and if that condition comes to be True it
+**7)**
+A conditional statement checks a condition and if that condition comes to be True it
 runs that block or else it just pass without excecuting that block.We use conditional statement 
 when we want to execute a block when that condition comes True.
 

@@ -90,10 +90,13 @@ All three ranges does the same just the way of approch is changed.
 
 **13)**  
 
-#1&nbsp;for i in range(1,11):\
-&ensp;&ensp;print(i)\
-#2 i=1\
+for i in range(1,11):\
+&ensp;&ensp;print(i)\  
+
+i=1\
    while i < 11:\
    &ensp;&ensp;print(i)\
-   &ensp;&ensp;i+=1
-**14)**spam.bacon()
+   &ensp;&ensp;i+=1\
+
+**14)**
+spam.bacon()

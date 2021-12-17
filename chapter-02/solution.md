@@ -6,11 +6,13 @@ True and False are the two values of the Boolean data type. 1 is considered as T
 and ,or and not are the Boolean operators.
 
 **3)**
-&ensp;&ensp;AND operator\
-&ensp;True AND True => True\
+&ensp;&ensp;AND operator\  
+
+&ensp;&nbsp;True AND True => True\
 &ensp;&ensp;True AND False => False\
 &ensp;&ensp;False AND True => False\
-&ensp;&ensp;False AND False => False\
+&ensp;&ensp;False AND False => False\  
+
 &ensp;&ensp;&ensp;&ensp;OR operator  
 
 &ensp;&ensp;True OR True => True\
@@ -39,7 +41,7 @@ runs that block or else it just pass without excecuting that block. We use condi
 when we want to execute a block when that condition comes True.
 
 **8)**\
-**Block-01**\
+##**Block-01**\
 spam = 0\
 if spam == 10:\
 &ensp;&ensp;    print('eggs')\
@@ -50,7 +52,7 @@ if spam == 10:\
 &ensp;&ensp;    print('spam')\
 print('spam')\
 &nbsp;
-**Block-02**
+##**Block-02**
 print('eggs')\
 &ensp;if spam > 5:\
 &ensp;&ensp;print('bacon')\
@@ -58,10 +60,10 @@ print('eggs')\
 &ensp;&ensp;print('ham')\
 &ensp;print('spam')\
 &nbsp;
-**Block-03**
+##**Block-03**
 print('bacon')\
 else:\
-&ensp;print('ham')\
+&ensp;print('ham')
 
 **9)**&nbsp;
 if spam == 1:\
@@ -81,7 +83,8 @@ continue statement does nothing just continues with the next iteration.
 **12)**
 All three ranges does the same just the way of approch is changed.
 
-**13)**&nbsp;
+**13)**  
+
 #1&nbsp;for i in range(1,11):\
 &ensp;&ensp;print(i)\
 #2 i=1\

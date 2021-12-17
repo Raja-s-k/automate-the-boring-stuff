@@ -1,3 +1,4 @@
+<pre>
 **1)**
   operator\
   value\
@@ -42,3 +43,4 @@ type()
 Here the 99 in a int and not a string. So if 99 is treated as string the error can be eliminated.
 \New code:
 \'I have eaten ' + '99' + ' burritos.'
+</pre>

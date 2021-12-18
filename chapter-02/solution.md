@@ -80,7 +80,6 @@ continue statement does nothing just continues with the next iteration.
 All three ranges does the same just the way of approch is changed.
 
 **13)**  
-
 for i in range(1,11):\
 &ensp;&ensp;print(i)\  
 

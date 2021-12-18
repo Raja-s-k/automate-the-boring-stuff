@@ -1,6 +1,6 @@
 **1)**
-→Functions makes our code neat and tidy\
-&ensp;&ensp;→It also makes the code easier to debug.  
+→&nbsp;Functions makes our code neat and tidy\
+&ensp;&ensp;→&nbsp;It also makes the code easier to debug.  
 
 **2)**
 When the function is called.  

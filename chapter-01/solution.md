@@ -6,22 +6,16 @@
 &ensp;&nbsp;  operator\
 &ensp;&nbsp;  operator\
 &ensp;&nbsp;  operator\
-&ensp;&nbsp;  value\
-&ensp;&nbsp;  value\
-&ensp;&nbsp;  value\
-&ensp;&nbsp;  operator\
-&ensp;&nbsp;  operator\
-&ensp;&nbsp;  operator\
-&ensp;&nbsp;  value
+&ensp;&nbsp;  value 
 
 **2)**
-   spam -variable\
-&ensp;&nbsp;  'spam'-string
+   spam &ensp;-&ensp; variable\
+&ensp;&nbsp;  'spam'&nbsp; -&nbsp; string
 
 **3)**
   =>Integers\
-&ensp;&ensp;&ensp;&ensp;    Floating point numbers\
-&ensp;&ensp;&ensp;&ensp;    Strings
+&ensp;&ensp;&ensp;&ensp;&nbsp;   Floating point numbers\
+&ensp;&ensp;&ensp;&ensp;&nbsp;  Strings
 
 **4)**
   An expression is made up of values and operators and it is used to do some mathematical operation.
@@ -46,6 +40,6 @@ A variable should start with a alphabet or a special character "_"
 type()
 
 **10)**
-Here the 99 in a int and not a string. So if 99 is treated as string the error can be eliminated.
-\New code:
-\'I have eaten ' + '99' + ' burritos.'
+Here the 99 in a int and not a string. So if 99 is treated as string the error can be eliminated.\
+**New code:**\
+'I have eaten ' + '99' + ' burritos.'

@@ -1,6 +1,9 @@
 **1)**
 True and False are the two values of the Boolean data type. 1 is considered as True and 
-      0 is considered as False.
+      0 is considered as False.\
+ **CODE:**\
+ print(True)\
+ print(False)
 
 **2)**
 and ,or and not are the Boolean operators.
@@ -25,7 +28,7 @@ False\
 &ensp;&ensp;False\
 &ensp;&ensp;True\
 &ensp;&ensp;False\
-&ensp;&ensp;True\
+&ensp;&ensp;False\
 &ensp;&ensp;True
 
 **5)**
@@ -73,15 +76,14 @@ else:\
 Ctrl + C
 
 **11)**
-break statement just stops executing the current loop and jump out of the loop.
-continue statement does nothing just continues with the next iteration.
+break statement just stops executing the current loop and jump out of the loop, whereas continue statement does nothing and just continues with the next iteration.
 
 **12)**
-All three ranges does the same just the way of approch is changed.
+All three ranges does the same but only the way of approch has been changed. In the fist range the first paramenter and the third parameter is taken by default as 0 and 1, in the second range also it takes its third parameter as 1 and in the third range all the parameters are specified.
 
 **13)**  
 for i in range(1,11):\
-&ensp;&ensp;print(i)\  
+&ensp;&ensp;print(i)  
 
 i=1\
    while i < 11:\

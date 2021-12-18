@@ -18,4 +18,4 @@ def list_to_string(list1):
 c=list(map(str,input().split()))
 d=list_to_string(c)
 print(d)
-<\pre>
+</pre>

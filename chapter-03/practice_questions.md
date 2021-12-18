@@ -1,6 +1,6 @@
 **1)**
 →Functions makes our code neat and tidy\
-→It also makes the code easier to debug.  
+&enps→It also makes the code easier to debug.  
 
 **2)**
 When the function is called.  

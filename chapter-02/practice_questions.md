@@ -32,7 +32,7 @@ False\
 &ensp;&ensp;True
 
 **5)**
-(>,<,>=,<=,!=,==)
+ >,<,>=,<=,!=,==
 
 **6)**
 equal to (=) operator is used to assign some value to some variable, whereas == operator is used to check

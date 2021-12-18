@@ -8,7 +8,7 @@ When the function is called.
 **3)**
 def statement is used to create a function.\
 **Syntax:**
-def < name of the function >(< parameter1 >,< parameter1 >,.&nbsp;..&nbsp;..&nbsp;..&nbsp;).&nbsp;:
+def < name of the function >(< parameter1 >,< parameter1 >&nbsp;,.&nbsp;.&nbsp;.&nbsp;.&nbsp;)&nbsp;:
 
 **4)**
 A function is a program or a code block which is defined seperatly outside the main program

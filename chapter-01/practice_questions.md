@@ -34,7 +34,7 @@
 spamspamspam
 
 **8)**
-A variable should start with a alphabet or a special character "_"
+A variable should start with a alphabet or a special character "_".
 
 **9)**
 type()

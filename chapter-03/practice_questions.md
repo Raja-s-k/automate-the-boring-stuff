@@ -6,9 +6,9 @@
 When the function is called.  
 
 **3)**
-def statement is used to create a function.
+def statement is used to create a function.\
 **Syntax:**
-def <name of the function>(<parameter1>,<parameter1>,....):
+def < name of the function >(<parameter1>,<parameter1>,....):
 
 **4)**
 A function is a program or a code block which is defined seperatly outside the main program

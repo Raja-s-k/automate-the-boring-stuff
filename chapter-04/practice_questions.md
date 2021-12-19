@@ -24,8 +24,8 @@ d
 [3.14, 11, 'cat', True]
 
 **9)**
-The operator for concatenating a list is **+** and the operator for the list replication is 
-*****
+The operator for concatenating a list is **"+"** and the operator for the list replication is 
+**"*"**
 
 **10)**
 append() - append() function is used to add or insert an element at the end of the list. It carries only one 

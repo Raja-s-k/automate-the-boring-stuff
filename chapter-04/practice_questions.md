@@ -36,8 +36,8 @@ and the second parameter is the element to be inserted.
 
 **11)**
 There are two fuctions to remove an element from a list.\
-&ensp;&ensp;→remove()\
-&ensp;&ensp;→pop()  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;→remove()\
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;→pop()  
 
 remove() - remove() function carries one parameter which is the element itself.\
 pop() - pop() fuction also carries one parameter which is the index of the element to 

@@ -30,7 +30,7 @@ The operator for concatenating a list is **"+"** and the operator for the list r
 **10)**
 append() - append() function is used to add or insert an element at the end of the list. It carries only one 
 parameter with it which is the element itself.\
-insert() - insert() function is used to add or insert an element at a particular index. It 
+&ensp;&ensp;&ensp;&ensp;insert() - insert() function is used to add or insert an element at a particular index. It 
 carries two parameter, the first prameter is the index at which the element should be inserted
 and the second parameter is the element to be inserted.
 

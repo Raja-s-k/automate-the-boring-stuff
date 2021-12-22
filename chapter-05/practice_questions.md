@@ -13,9 +13,9 @@ We will get a keyerror.
 
 **5)**
 There is no difference between the expressions. Both statements does the same.\
-→The first statements checks whether the string cat is present in the keys of
+&ensp;&ensp;→The first statements checks whether the string cat is present in the keys of
 spam dictionary.\
-→The second statement checks whether cat is present in a list containing the keys which are 
+&ensp;&ensp;→The second statement checks whether cat is present in a list containing the keys which are 
 extracted from the spam dictionary.
 
 **6)**

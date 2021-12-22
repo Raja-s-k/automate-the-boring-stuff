@@ -24,8 +24,10 @@ statement checks for cat in a list containing the values of spam.
 
 **7)** 
 By using the setdefault fuction.\
-**Code:**spam.setdefault("colour","black")
+**Code:**
+spam.setdefault("colour","black")
 
 **8)**
 Using pprint() funtion.\
-**Syntax:**pprint.pprint(<dictionary name>)
+**Syntax:**
+pprint.pprint(<dictionary name>)

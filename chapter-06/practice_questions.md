@@ -17,24 +17,24 @@ and end of the string.
 We can use the multiline string instead of using single line string with \n.
 
 **6)**
-→&nbsp;e\
-&ensp;&ensp;→&nbsp;Hello\
-&ensp;&ensp;→&nbsp;Hello\
-&ensp;&ensp;→&nbsp;llo, world!
+→&nsep;e\
+&ensp;&ensp;→&nesp;Hello\
+&ensp;&ensp;→&nesp;Hello\
+&ensp;&ensp;→&nesp;llo, world!
 
 **7)**
-→&nbsp;HELLO\
-&ensp;&ensp;→&nbsp;True\
-&ensp;&ensp;→&nbsp;hello
+→&nesp;HELLO\
+&ensp;&ensp;→&nesp;True\
+&ensp;&ensp;→&nesp;hello
 
 **8)**
-→&nbsp;['Remember,','remember,','the','fifth','of','Novemember.']\
-&ensp;&ensp;→&nbsp;There-can-be-only-one.
+→&nesp;['Remember,','remember,','the','fifth','of','Novemember.']\
+&ensp;&ensp;→&nesp;There-can-be-only-one.
 
 **9)**
-→&nbsp;Right justify - <string>.rjust(<int>,<character>)\
-&ensp;&ensp;→&nbsp;Left justify  - <string>.ljust(<int>,<character>)\
-&ensp;&ensp;→&nbsp;Centre        - <string>.centre(<int>,<character>)
+→Right justify - <string>.rjust(<int>,<character>)\
+&ensp;&ensp;→Left justify  - <string>.ljust(<int>,<character>)\
+&ensp;&ensp;→Centre        - <string>.centre(<int>,<character>)
 
 **10)**
 lstrip funtion is used to trim the whitespaces present at the beginning of the string ( **Syntax:**

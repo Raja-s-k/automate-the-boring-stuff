@@ -17,19 +17,19 @@ and end of the string.
 We can use the multiline string instead of using single line string with \n.
 
 **6)**
-→&nsep;e\
-&ensp;&ensp;→&nesp;Hello\
-&ensp;&ensp;→&nesp;Hello\
-&ensp;&ensp;→&nesp;llo, world!
+→&nbsp;e\
+&ensp;&ensp;→&nbsp;Hello\
+&ensp;&ensp;→&nbsp;Hello\
+&ensp;&ensp;→&nbsp;llo, world!
 
 **7)**
-→&nesp;HELLO\
-&ensp;&ensp;→&nesp;True\
-&ensp;&ensp;→&nesp;hello
+→&nbsp;HELLO\
+&ensp;&ensp;→&nbsp;True\
+&ensp;&ensp;→&nbsp;hello
 
 **8)**
-→&nesp;['Remember,','remember,','the','fifth','of','Novemember.']\
-&ensp;&ensp;→&nesp;There-can-be-only-one.
+→&nbsp;['Remember,','remember,','the','fifth','of','Novemember.']\
+&ensp;&ensp;→&nbsp;There-can-be-only-one.
 
 **9)**
 →Right justify - <string>.rjust(<int>,<character>)\

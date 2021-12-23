@@ -32,9 +32,9 @@ We can use the multiline string instead of using single line string with \n.
 &ensp;&ensp;→&nbsp;There-can-be-only-one.
 
 **9)**
-→Right justify - <string>.rjust(<int>,<character>)\
-→Left justify  - <string>.ljust(<int>,<character>)\
-→Centre        - <string>.centre(<int>,<character>)
+→&nbsp;Right justify - <string>.rjust(<int>,<character>)\
+&ensp;&ensp;→&nbsp;Left justify  - <string>.ljust(<int>,<character>)\
+&ensp;&ensp;→&nbsp;Centre        - <string>.centre(<int>,<character>)
 
 **10)**
 lstrip funtion is used to trim the whitespaces present at the beginning of the string ( **Syntax:**

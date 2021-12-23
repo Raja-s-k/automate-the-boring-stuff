@@ -4,10 +4,10 @@ by an backslash followed by the character they want to insert.
 
 **2)**
 \n - Used to move the cursor to a new line.\
-&ensp;&ensp;\t - Used to add four whitespaces.
+&ensp;&ensp;&ensp;\t - Used to add four whitespaces.
 
 **3)**
-\\
+\\\
 
 **4)**
 The single quote in Howl's is fine because they have used double quotes to mark the beginning 

@@ -32,7 +32,7 @@ group.
 
 **10)**
 →The + matches one or more of the preceding group.\
-→The * matches zero or more of the preceding group.
+&ensp;&ensp;→The * matches zero or more of the preceding group.
 
 **11)**
 {3} tells that the preceding group repeats 3 time whereas {3,5} tells that the preceding

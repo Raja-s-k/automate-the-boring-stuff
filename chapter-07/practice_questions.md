@@ -9,7 +9,7 @@ avoid this issue raw strings are used.
 The search() returns the match object, span and the matched item.
 
 **4)**
-By using group() or groups() function.
+By using group(&nbsp;) or groups(&nbsp;) function.
 
 **5)**
 Here, the group(0) covers the entire string (\d\d\d)-(\d\d\d-\d\d\d\d), the group(1) covers
@@ -17,7 +17,7 @@ the first part of the string (\d\d\d) and the group(2) covers the second part of
 (\d\d\d-\d\d\d\d).
 
 **6)**
-By using escape characters or backslash. Here, it can be give like \\(, \\..
+By using escape characters or backslash. Here, it can be give like \\( , \\..
 
 **7)**
 If the regex objects are enclosed or seperated by the parantheses then the findall() 
@@ -32,7 +32,7 @@ group.
 
 **10)**
 →The + matches one or more of the preceding group.\
-&ensp;&ensp;→The * matches zero or more of the preceding group.
+&ensp;&ensp;&ensp;&ensp;→The * matches zero or more of the preceding group.
 
 **11)**
 {3} tells that the preceding group repeats 3 time whereas {3,5} tells that the preceding

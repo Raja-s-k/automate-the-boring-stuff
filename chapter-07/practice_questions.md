@@ -40,17 +40,17 @@ group can repeat any number of time between the range(inclusive) 3 to 5 ie, 3 or
 
 **12)**
 \d&nbsp; -&nbsp; used to represent any numeric character.\
-\w&nbsp; -&nbsp; used to represent any letter, numeric character, or the underscore.\
-\s&nbsp; -&nbsp; used to represent any space, tab, or newline character.
+&ensp;&ensp;&ensp;\w&nbsp; -&nbsp; used to represent any letter, numeric character, or the underscore.\
+&ensp;&ensp;&ensp;\s&nbsp; -&nbsp; used to represent any space, tab, or newline character.
 
 **13)**
 \D&nbsp; -&nbsp; used to represent any non numeric character.\
-\W&nbsp; -&nbsp; used to represent any character that is not
+&ensp;&ensp;&ensp;\W&nbsp; -&nbsp; used to represent any character that is not
  letter, numeric character, or the underscore.\
-\S&nbsp; -&nbsp; used to represent any character that is not space, tab, or newline character.
+&ensp;&ensp;&ensp;\S&nbsp; -&nbsp; used to represent any character that is not space, tab, or newline character.
 
 **14)**
-The dot-star(.*) is uses greedy mode: It will always try to match as much text as possible. 
+The dot-star(.\*) is uses greedy mode: It will always try to match as much text as possible. 
 where as the dot, star, and question mark(.*?) uses a non-greedy mode: It matchs any and all text in a non-greedy 
 fashion. 
 

@@ -20,7 +20,7 @@ the first part of the string (\d\d\d) and the group(2) covers the second part of
 By using escape characters or backslash. Here, it can be give like \\( , \\..
 
 **7)**
-If the regex objects are enclosed or seperated by the parantheses then the findall() 
+If the regex objects are enclosed or seperated by the parantheses then the findall( ) 
 function return a list of tuples or else it return the list of strings.
 
 **8)**
@@ -32,7 +32,7 @@ group.
 
 **10)**
 →The + matches one or more of the preceding group.\
-&ensp;&ensp;&ensp;&ensp;→The * matches zero or more of the preceding group.
+&ensp;&ensp;&ensp;→The * matches zero or more of the preceding group.
 
 **11)**
 {3} tells that the preceding group repeats 3 time whereas {3,5} tells that the preceding

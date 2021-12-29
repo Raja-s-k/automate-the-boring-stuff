@@ -19,4 +19,4 @@ strings to determine what the PyInputPlus function will accept or reject as vali
 The inputStr() fuction stops accepting further string values.
 
 **7)**
-The inputStr() fuction takes the hello as its value.
+The inputStr() fuction takes hello as its value.

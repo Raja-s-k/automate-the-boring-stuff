@@ -1,4 +1,6 @@
-import pyperclip, re, sys
+<pre>
+
+mport pyperclip, re, sys
 
 dateRegex = re.compile(r'(0[1-9]|[1-2][0-9]|3[0-1])/(0[1-9]|1[0-2])/([1-9][0-9]{3})')
 
@@ -53,3 +55,4 @@ else:
         pyperclip.copy(string)
         print(string)
 
+<\pre>

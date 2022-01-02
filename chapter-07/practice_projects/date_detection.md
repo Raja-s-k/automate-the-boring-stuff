@@ -55,4 +55,4 @@ else:
         pyperclip.copy(string)
         print(string)
 
-<\pre>
+</pre>

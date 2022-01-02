@@ -1,6 +1,6 @@
 <pre>
 
-mport pyperclip, re
+import pyperclip, re
 
 text = pyperclip.paste()
 strip = re.sub(r'^\s+|\s+$', '', text)

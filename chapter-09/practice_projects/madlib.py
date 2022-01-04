@@ -1,5 +1,3 @@
-<pre>
-
 a=open("sample.txt","r")
 b=a.read()
 b=b.split()
@@ -59,4 +57,3 @@ for i in b:
 a.write(j)
 a.close()    
         
-</pre>
